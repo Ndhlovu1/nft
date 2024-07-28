@@ -57,14 +57,14 @@ module.exports = {
    * $ truffle test --network <network-name>
    */
 
-networks: {
-    development: {
-      host: "localhost",
-      port: 7545,
-      network_id: "5777",
-    }
-    // live: { ... }
-  },
+// networks: {
+//     development: {
+//       host: "localhost",
+//       port: 7545,
+//       network_id: "5777",
+//     }
+//     // live: { ... }
+//   },
 
   // Set default mocha options here, use special reporters, etc.
   mocha: {
