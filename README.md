@@ -32,3 +32,17 @@
 `> TheBackEndGuruInstance.ownerOf(0)`
 
 `> TheBackEndGuruInstance.tokenURI(0)`
+
+**RUNNING TESTS**
+
+`> truffle test`
+
+OR
+
+
+`> ganache`
+
+In a different terminal
+`> test`
+
+USE TRUFFLE INSETIONS TO REPLACE USING JS ASSETS
